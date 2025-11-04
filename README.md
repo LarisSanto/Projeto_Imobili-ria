@@ -65,8 +65,8 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 
 **📓 Confira os notebooks completos:**
 
-- [Uploading Projeto_Imobiliária_part1.ipynb…]()
-- [Uploading Projeto_Imobiliária_part2.ipynb…]()
+- https://github.com/LarisSanto/Projeto_Imobili-ria/blob/main/Projeto_Imobili%C3%A1ria_part1.ipynb
+- https://github.com/LarisSanto/Projeto_Imobili-ria/blob/main/Projeto_Imobili%C3%A1ria_part2.ipynb
 
 
 

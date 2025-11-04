@@ -1,4 +1,4 @@
-[Projeto_Imobiliária_part2.ipynb](https://github.com/user-attachments/files/23341721/Projeto_Imobiliaria_part2.ipynb)[Projeto_Imobiliária_part1.ipynb](https://github.com/user-attachments/files/23341700/Projeto_Imobiliaria_part1.ipynb)<!-- Capa animada superior -->
+<!-- Capa animada superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p> 

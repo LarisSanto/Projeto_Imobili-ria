@@ -9,7 +9,9 @@
 Este projeto foi desenvolvido durante o Programa ONE (Oracle + Alura).  
 O objetivo foi analisar dados de imóveis do Rio de Janeiro, explorando, limpando e manipulando o conjunto de dados com a biblioteca Pandas em Python.
 
-**📊 Parte 1 — Conhecendo a Biblioteca Pandas**
+
+**Parte 1 — Conhecendo a Biblioteca Pandas**
+
 Nesta primeira etapa, o foco foi carregar, explorar e preparar os dados para análise.
 
 🧩 Etapas Realizadas
@@ -22,7 +24,8 @@ Nesta primeira etapa, o foco foi carregar, explorar e preparar os dados para an�
 - Filtragem de dados com o método query()
   
 
-**📈 Parte 2 — Agrupamentos e Estatísticas**
+**Parte 2 — Agrupamentos e Estatísticas**
+
 Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 
 🧩 Etapas Realizadas
@@ -33,14 +36,14 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 - Comparação de valores entre tipos de imóveis e bairros
 - Consolidação de insights sobre preços e áreas
 
-## 🧠 Conclusões
+**🧠 Conclusões**
 
 - O projeto consolidou habilidades práticas com a biblioteca Pandas, desde a leitura e limpeza de dados até a análise estatística.
 - Foi possível compreender tendências de preço, características e distribuição de imóveis no Rio de Janeiro.
 - Ferramentas como query() e groupby() mostraram-se essenciais para análises rápidas e eficientes.
 
 
-## 🗂️ Estrutura do Repositório
+**🗂️ Estrutura do Repositório**
 
 📁 Projeto-Imobiliaria
 - 📄 aluguel.txt                   # Base de dados original
@@ -51,7 +54,7 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
  
 
 
-## 🧰 Tecnologias Utilizadas
+**🧰 Tecnologias Utilizadas**
 
 - Python 3
 - Pandas
@@ -60,7 +63,7 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 - Matplotlib / Seaborn (para visualizações opcionais)
 
 
-## 📓 Confira os notebooks completos:
+**📓 Confira os notebooks completos:**
 
 - Projeto_Imobiliária_part1.ipynb
 - Projeto_Imobiliária_part2.ipynb
@@ -68,7 +71,7 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 
 
 
-### 👩🏽 Sobre Mim
+## 👩🏽 Sobre Mim
 
 Sou **Larissa dos Santos Silva**, estudante do Programa ONE (Oracle + Alura).
 Aqui compartilho os principais projetos que desenvolvi durante minha formação na Área de Dados.

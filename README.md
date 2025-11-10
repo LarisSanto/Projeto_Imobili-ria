@@ -15,7 +15,7 @@ O objetivo foi analisar dados de imóveis do Rio de Janeiro, explorando, limpand
 
 Nesta primeira etapa, o foco foi carregar, explorar e preparar os dados para análise.
 
-🧩 Etapas Realizadas
+**Etapas Realizadas**
 
 - Importação da base aluguel.txt
 - Criação de um DataFrame com o Pandas
@@ -23,13 +23,14 @@ Nesta primeira etapa, o foco foi carregar, explorar e preparar os dados para an�
 - Identificação e tratamento de valores ausentes
 - Criação de novas colunas
 - Filtragem de dados com o método query()
-  
+
+<br>  
 
 **Parte 2 — Agrupamentos e Estatísticas**
 
 Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 
-🧩 Etapas Realizadas
+**Etapas Realizadas**
 
 - Agrupamento por tipo de imóvel (groupby)
 - Cálculo de médias e medianas
@@ -37,11 +38,15 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 - Comparação de valores entre tipos de imóveis e bairros
 - Consolidação de insights sobre preços e áreas
 
+<br>
+
 **🧠 Conclusões**
 
 - O projeto consolidou habilidades práticas com a biblioteca Pandas, desde a leitura e limpeza de dados até a análise estatística.
 - Foi possível compreender tendências de preço, características e distribuição de imóveis no Rio de Janeiro.
 - Ferramentas como query() e groupby() mostraram-se essenciais para análises rápidas e eficientes.
+
+<br>
 
 
 **🗂️ Estrutura do Repositório**
@@ -53,6 +58,7 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 - 📓 Projeto_Imobiliária_part2.ipynb  # Etapa 2 - Agrupamentos e estatísticas
 - 📄 README.md                     # Descrição do projeto
  
+<br>
 
 
 **🧰 Tecnologias Utilizadas**
@@ -63,6 +69,7 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 - Jupyter Notebook
 - Matplotlib / Seaborn (para visualizações opcionais)
 
+<br>
 
 **📓 Confira os notebooks completos:**
 
@@ -70,6 +77,7 @@ Nesta fase, o objetivo foi agrupar, comparar e extrair estatísticas dos dados.
 - https://github.com/LarisSanto/Projeto_Imobili-ria/blob/main/Projeto_Imobili%C3%A1ria_part2.ipynb
 
 
+<br>
 
 
 
@@ -82,7 +90,7 @@ Este projeto faz parte do meu processo de aprendizado e desenvolvimento pessoal 
 
 Estou super aberta para sugestôes e dicas!
 
-
+<br>
 
 ### 📫 Contato
 

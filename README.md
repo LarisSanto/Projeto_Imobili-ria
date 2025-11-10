@@ -12,6 +12,7 @@ O objetivo foi analisar dados de imóveis do Rio de Janeiro, explorando, limpand
 
 **Parte 1 — Conhecendo a Biblioteca Pandas**
 
+
 Nesta primeira etapa, o foco foi carregar, explorar e preparar os dados para análise.
 
 🧩 Etapas Realizadas
@@ -94,6 +95,7 @@ https://unique-onion-409.notion.site/Ol-meu-nome-Larissa-dos-Santos-1ffae8705fee
 
 
 ---
+
 
 <p align="center">Feito com 🖤 por Larissa dos Santos Silva</p>
 

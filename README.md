@@ -4,7 +4,7 @@
 </p> 
 
 
-# 🏠 Projeto de Análise de Imóveis - Data Science.
+# 🏠 Projeto de Análise de Imóveis.
 
 Este projeto foi desenvolvido durante o Programa ONE (Oracle + Alura).  
 O objetivo foi analisar dados de imóveis do Rio de Janeiro, explorando, limpando e manipulando o conjunto de dados com a biblioteca Pandas em Python.
